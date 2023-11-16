@@ -23,5 +23,24 @@
 ---
 <br/>
 
+### Execution:
+To execute the program use the following command:
+  ```
+  python SV.py 
+  ```
+
+or
+```
+python3 SV.py 
+```
+
+_it's recommended to use pyhton3 and you need Pygame module installed on your system_
+
+
+<br/>
+
+---
+<br/>
+
 ### Pictures:
 <img src="Img.PNG" alt="Image 1">
