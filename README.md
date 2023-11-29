@@ -12,7 +12,7 @@
 
 ### Description:
 
-<p>The purpose of this application is to show, from a visual perspective, how the most common sorting algorithms works <p>
+<p>The purpose of this application is to show, from a visual perspective, how the most common sorting algorithms work <p>
 
 <p>The application allows you to generate a random list of numbers which will be sorted<p>
 
